@@ -1,0 +1,5 @@
+﻿  ParserCSV.cpp
+c:\users\aaa\desktop\parser_kermit\parser_kermit\parsercsv.cpp(99): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\aaa\desktop\parser_kermit\parser_kermit\parsercsv.cpp(113): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\aaa\desktop\parser_kermit\parser_kermit\parsercsv.cpp(119): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Parser_Kermit.vcxproj -> C:\Users\Aaa\Desktop\Parser_Kermit\Debug\Parser_Kermit.exe
